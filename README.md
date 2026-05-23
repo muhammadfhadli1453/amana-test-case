@@ -7,6 +7,7 @@ This project was built for the AI Engineer case study from AMANA Solutions.
 ## Demo
 
 - Demo Video: https://youtu.be/fm2ymD8AxAU
+- Document sample: https://drive.google.com/drive/folders/1Cy-PqZ_nZKJyaETV1W0sNVoOHDwj5N5r?usp=sharing
 
 ## Features
 
